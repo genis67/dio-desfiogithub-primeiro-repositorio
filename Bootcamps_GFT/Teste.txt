@@ -1,0 +1,4 @@
+Este é um arquivo para testar, se o git exerga a pasta, depois que esse arquivo foi criado.
+De fato, o Git só enxergou a pasta, depois que eu criei um arquivo texto dentro dela, enquanto ela 
+estava vazia, o Git a ignorou.
+
